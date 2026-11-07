@@ -33,7 +33,7 @@ Use the -specific `controls.sii` configuration.
 
 The  configuration removes the custom indicator `memory()` expressions while retaining the normal semantic indicator bindings. This allows Boxflat to handle the indicators independently.
 
-Lighting and retarder controls remain mapped through `controls.sii`, so Boxflat does not need to handle those functions.
+Lighting and retarder controls remain mapped through `controls.sii`, so Pithouse does not need to handle those functions.
 
 ## Lighting and retarder
 
@@ -61,7 +61,6 @@ These functions are handled directly by the game through the custom `controls.si
 3. Select the appropriate configuration for your operating system.
 4. Replace the existing `controls.sii` with the selected version.
 5. Configure Pit House or Boxflat as described above.
-6. Rename controls__boxflat.sii to controls.sii when copying over to 
 
 ## Software
 
