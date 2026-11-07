@@ -30,7 +30,9 @@ Configure Boxflat with the following options:
 
 - **Turn Signals Toggle:** ON
 - **Turn Signals Hold:** ON
-!OPTIONS(images/boxflat.png)
+
+![OPTIONS](images/boxflat.png)
+
 Use the Linux-specific `controls.sii` configuration.
 
 The Linux configuration removes the custom indicator `memory()` expressions while retaining the normal semantic indicator bindings. This allows Boxflat to handle the indicators independently.
