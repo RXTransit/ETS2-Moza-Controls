@@ -20,7 +20,10 @@ When using the Windows configuration:
 
 ![OPTIONS](images/pithouse.png)
 
-4. **Ensure the Stalks are the 4th joystick in ETS2, otherwise substitute accordingly**
+4. **Ensure the Stalks are the 4th joystick in ETS2, (Use the virtual boxflat device on Linux) otherwise substitute accordingly**
+
+![OPTIONS](images/ets2.png)
+
 5. Add the following lines to controls.sii file. 
 
 ### Rear Wiper as Ignition
