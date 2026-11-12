@@ -12,6 +12,23 @@ The configurations allow the stalks to control vehicle functions such as indicat
 
 ## Windows – MOZA Pit House
 
+**Please Make Sure that the following are unbound in ETS2/ATS from any gamepads outside of keyboards in the UI before proceeding:**
+- Wipers
+- Wipers Back
+- Left-Turn Indicator
+- Right-Turn-Indicator
+- Light Modees
+- High Beam Headlights
+- Horn
+- Light Horn
+- Air Horn
+- Beacon
+- Cruise Control
+- Cruise Control Speed Increase
+- Cruise Control Speed Decrease
+- Retarder Increase
+- Retarder Decrease
+
 When using the Windows configuration:
 
 1. Install and configure MOZA Pit House.
