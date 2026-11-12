@@ -65,6 +65,7 @@ When using the Windows configuration:
  ```
  config_lines[416]: "mix hblight `keyboard.k?0 | joy4.b4?0 | semantical.hblight?0`"
  config_lines[360]: "mix lighthorn `keyboard.j?0 | joy4.b6?0 | semantical.lighthorn?0`"
+ config_lines[361]: "mix beacon `unbound?0 | joy4.b7?0 | semantical.beacon?0`"
  ```
  ### Cruise Control
  ```
