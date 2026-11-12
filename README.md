@@ -17,6 +17,7 @@ When using the Windows configuration:
 1. Install and configure MOZA Pit House.
 2. Connect the Multifunction Stalks
 3. **Enable Direct Connection Mode in MOZA Pit House.**
+![OPTIONS](images/pithouse.png)
 3.5 **Ensure the Stalks are the 4th joystick in ETS2, otherwise substitute accordingly**
 4. Add the following lines to controls.sii file. 
 
