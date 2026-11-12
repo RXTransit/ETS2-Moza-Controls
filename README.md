@@ -17,9 +17,11 @@ When using the Windows configuration:
 1. Install and configure MOZA Pit House.
 2. Connect the Multifunction Stalks
 3. **Enable Direct Connection Mode in MOZA Pit House.**
+
 ![OPTIONS](images/pithouse.png)
-3.5 **Ensure the Stalks are the 4th joystick in ETS2, otherwise substitute accordingly**
-4. Add the following lines to controls.sii file. 
+
+4. **Ensure the Stalks are the 4th joystick in ETS2, otherwise substitute accordingly**
+5. Add the following lines to controls.sii file. 
 
 ### Rear Wiper as Ignition
 ```
@@ -73,6 +75,11 @@ When using the Windows configuration:
  config_lines[407]: "mix cruiectrlinc `unbound?0 | joy4.b27?0 | semantical.cruiectrlinc?0`"
  config_lines[408]: "mix cruiectrldec `unbound?0 | joy4.b26?0 | semantical.cruiectrldec?0`"
  config_lines[409]: "mix cruiectrlres `unbound?0 | joy4.b28?0 | semantical.cruiectrlres?0`"
+ ```
+ ### Horns (Wiper stalks 19 & 20)
+ ```
+ config_lines[358]: "mix horn `unbound?0 | joy4.b20?0 | semantical.horn?0`"
+ config_lines[359]: "mix airhorn `unbound?0 | joy4.b19?0 | semantical.airhorn?0`"
  ```
 Direct Connection Mode must be enabled for the intended control behaviour.
 
